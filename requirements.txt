@@ -5,6 +5,7 @@ pymongo[srv]
 motor
 marshmallow
 umongo
+requests
 pytz
 git+https://github.com/Joelkb/cinemagoer
 shortzy
